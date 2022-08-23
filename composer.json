@@ -1,0 +1,11 @@
+{
+    "name": "revmakx/wp-boilerplate",
+    "description": "This wp boilerplate",
+    "type": "lib",
+    "autoload": {
+        "psr-4": {
+            "WP_Boilerplate\\": "includes/"
+        }
+    },
+    "prefer-stable": true
+}
